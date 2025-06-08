@@ -37,7 +37,7 @@ These models are integrated into a Gradio web app to provide an interactive inte
 ### Installation
 1. Clone the repository:
  ```bash
-  git clone https://github.com/mukund-1/NLP-Based-Ticket-Classifiction-System.git
+git clone https://github.com/mukund-1/NLP-Based-Ticket-Classifiction-System.git
 cd NLP-Based-Ticket-Classifiction-System
   ```
 
