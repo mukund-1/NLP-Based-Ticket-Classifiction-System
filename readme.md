@@ -108,8 +108,8 @@ Issue Type: Account Access
 Urgency Level: High
 Extracted Entities:
 {
-  "product_names": [],
-  "dates": ["yesterday"],
+  "product_names": smart watch,
+  "dates": 15-5-2018,
   "complaint_keywords": ["unable", "access", "urgent"]
 }
 ```
