@@ -35,9 +35,13 @@ These models are integrated into a Gradio web app to provide an interactive inte
 - pip
 
 ### Installation
-1. download the folder and open the downloaded folder in VS code
+1. Clone the repository:
+   ```bash
+  git clone https://github.com/mukund-1/NLP-Based-Ticket-Classifiction-System.git
+cd NLP-Based-Ticket-Classifiction-System
+  ```
 
-2. Create a virtual environment by executing the following command in terminal
+3. Create a virtual environment by executing the following command in terminal
   ```bash
   python -m venv venv
   ```
